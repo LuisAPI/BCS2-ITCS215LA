@@ -7,7 +7,32 @@ This repository features binary files from the software design service Figma, as
 ## Skeletal structure
 
 - midterm
-> - [files]
+> - ITCS215LA_M_LA1_ConsiderImprovements_Imperial.pdf
+> - ITCS215LA_M_LA1 Imperial.fig
+> - Imperial_MActivity1.png
+> - Imperial_MActivity2.png
+> - ITCS215LA_M_LA2 Imperial.fig
+> - ITCS215LA Imperial_MActivity3.fig
+> - ITCS215LA Imperial_MActivity3.png
+> - ITCS215LA Imperial_MActivity4 Screenshot.png
+> - ITCS215LA Imperial_MActivity4.fig
+> - ITCS215LA Imperial_MActivity4.pdf
+> - ITCS215LA Imperial_MActivity5.txt
+> - ITCS215LA Imperial_MActivity5 Frame-Gallery.pdf
+> - Imperial_MActivity6.txt
+> - ITCS215LA Imperial_MActivity6 Screenshot.png
+> - ITCS215LA Imperial_MActivity6 Source.fig
+> - ITCS215LA Imperial_MActivity6 Frame-Gallery.pdf
+> - ITCS215LA Imperial_MActivity5-Plus.pdf
+> - ITCS215LA Imperial_MActivity5-Plus-1.pdf
+> - Imperial_MActivity6.pdf
+> - Imperial_MActivity_DragGesture.fig
+> - Imperial_MActivity_DragGesture.pdf
+> - Imperial_MActivity4_ProgramLogo.fig
+> - Imperial_MActivity4_ProgramLogo.pdf
+> - MActivity7_Imperial.fig
+> - MActivity7_Imperial.pdf
+> - ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png
 - final
 > - [files]
 
