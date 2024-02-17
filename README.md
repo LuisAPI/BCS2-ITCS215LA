@@ -34,7 +34,15 @@ This repository features binary files from the software design service Figma, as
 > - MActivity7_Imperial.pdf
 > - ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png
 - final
-> - [files]
+> - FActivity1A_Imperial.fig
+> - FActivity1A_Imperial_LinkSummary.docx
+> - FActivity1A_Imperial_LinkSummary.pdf
+> - FActivity2_Imperial.fig
+> - FActivity2_Imperial_Summary.docx
+> - FActivity2_Imperial_Summary.pdf
+> - FActivity3_Imperial_LinkSummary.docx
+> - Imperial - Lab Activity no. 4 Sticky1 - LinkSummary.docx
+> - ITCS215LA_FSA1_FLabExam_Imperial_SubmissionSummary.docx
 
 ## On socials
 
