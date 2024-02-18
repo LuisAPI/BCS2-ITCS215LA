@@ -44,6 +44,40 @@ This repository features binary files from the software design service Figma, as
 > - Imperial - Lab Activity no. 4 Sticky1 - LinkSummary.docx
 > - ITCS215LA_FSA1_FLabExam_Imperial_SubmissionSummary.docx
 
+## Skeletal structure
+
+### Midterm period structure
+
+# | Type | File | Description
+----|----|----|----
+1 | PDF | ITCS215LA_M_LA1_ConsiderImprovements_Imperial.pdf | We were asked to think of an app we used often and describe how it could be improved.
+2 | FIG | ITCS215LA_M_LA1 Imperial.fig | Learn Figma step-by-step 1/
+3 | PNG | Imperial_MActivity1.png | Screengrab of Figma with sign-in button
+4 | PNG | Imperial_MActivity2.png | Screengrab of Figma with two slides, sign-in button and log-in screen
+5 | FIG | ITCS215LA_M_LA2 Imperial.fig | Learn Figma step-by-step 2/
+6 | FIG | ITCS215LA Imperial_MActivity3.fig | Learn Figma step-by-step 3/
+7 | PNG | ITCS215LA Imperial_MActivity3.png | A third screen added, showing buttons and icons created using primitive drawing tools
+8 | PNG | ITCS215LA Imperial_MActivity4 Screenshot.png | Two new screens added, displaying a hypothetical photo sharing app’s content view and timeline interfaces
+
+> - ITCS215LA Imperial_MActivity4.fig
+> - ITCS215LA Imperial_MActivity4.pdf
+> - ITCS215LA Imperial_MActivity5.txt
+> - ITCS215LA Imperial_MActivity5 Frame-Gallery.pdf
+> - Imperial_MActivity6.txt
+> - ITCS215LA Imperial_MActivity6 Screenshot.png
+> - ITCS215LA Imperial_MActivity6 Source.fig
+> - ITCS215LA Imperial_MActivity6 Frame-Gallery.pdf
+> - ITCS215LA Imperial_MActivity5-Plus.pdf
+> - ITCS215LA Imperial_MActivity5-Plus-1.pdf
+> - Imperial_MActivity6.pdf
+> - Imperial_MActivity_DragGesture.fig
+> - Imperial_MActivity_DragGesture.pdf
+> - Imperial_MActivity4_ProgramLogo.fig
+> - Imperial_MActivity4_ProgramLogo.pdf
+> - MActivity7_Imperial.fig
+> - MActivity7_Imperial.pdf
+> - ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png
+
 ## On socials
 
 - X: [@LuisAntonPI](https://twitter.com/LuisAntonPI)
