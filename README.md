@@ -47,7 +47,7 @@ This repository features binary files from the software design service Figma, as
 ## Skeletal structure
 
 ### Midterm period structure
-
+ 
 # | Type | File | Description
 ----|----|----|----
 1 | PDF | ITCS215LA_M_LA1_ConsiderImprovements_Imperial.pdf | We were asked to think of an app we used often and describe how it could be improved.
@@ -58,17 +58,17 @@ This repository features binary files from the software design service Figma, as
 6 | FIG | ITCS215LA Imperial_MActivity3.fig | Learn Figma step-by-step 3/
 7 | PNG | ITCS215LA Imperial_MActivity3.png | A third screen added, showing buttons and icons created using primitive drawing tools
 8 | PNG | ITCS215LA Imperial_MActivity4 Screenshot.png | Two new screens added, displaying a hypothetical photo sharing app’s content view and timeline interfaces
+9 | FIG | ITCS215LA Imperial_MActivity4.fig | Learn Figma step-by-step 4/
+10 | PDF | ITCS215LA Imperial_MActivity4.pdf | Now the collation of screengrabs is an entire document
+11 | TXT | ITCS215LA Imperial_MActivity5.txt | Our prof since asked us to link directly to the original slide deck from the cloud
+12 | PDF | ITCS215LA Imperial_MActivity5 Frame-Gallery.pdf | Show screen displaying creation of menu screen
+13 | TXT | Imperial_MActivity6.txt | The sixth activity, or so I assumed.
+14 | PNG | ITCS215LA Imperial_MActivity6 Screenshot.png | Landscape versions of past created screens.
+15 | FIG | ITCS215LA Imperial_MActivity6 Source.fig | Source of aforementioned screengrab.
+16 | PDF | ITCS215LA Imperial_MActivity6 Frame-Gallery.pdf | The same screens, but displayed page-by-page in a PDF document.
+17 | ITCS215LA Imperial_MActivity5-Plus.pdf | We were asked to create a dozen versions of the same content display screen, to mimic a functioning app.
+18 | ITCS215LA Imperial_MActivity5-Plus-1.pdf | And then create landscape versions of these.
 
-> - ITCS215LA Imperial_MActivity4.fig
-> - ITCS215LA Imperial_MActivity4.pdf
-> - ITCS215LA Imperial_MActivity5.txt
-> - ITCS215LA Imperial_MActivity5 Frame-Gallery.pdf
-> - Imperial_MActivity6.txt
-> - ITCS215LA Imperial_MActivity6 Screenshot.png
-> - ITCS215LA Imperial_MActivity6 Source.fig
-> - ITCS215LA Imperial_MActivity6 Frame-Gallery.pdf
-> - ITCS215LA Imperial_MActivity5-Plus.pdf
-> - ITCS215LA Imperial_MActivity5-Plus-1.pdf
 > - Imperial_MActivity6.pdf
 > - Imperial_MActivity_DragGesture.fig
 > - Imperial_MActivity_DragGesture.pdf
