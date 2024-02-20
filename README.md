@@ -68,15 +68,14 @@ This repository features binary files from the software design service Figma, as
 16 | PDF | ITCS215LA Imperial_MActivity6 Frame-Gallery.pdf | The same screens, but displayed page-by-page in a PDF document.
 17 | ITCS215LA Imperial_MActivity5-Plus.pdf | We were asked to create a dozen versions of the same content display screen, to mimic a functioning app.
 18 | ITCS215LA Imperial_MActivity5-Plus-1.pdf | And then create landscape versions of these.
-
-> - Imperial_MActivity6.pdf
-> - Imperial_MActivity_DragGesture.fig
-> - Imperial_MActivity_DragGesture.pdf
-> - Imperial_MActivity4_ProgramLogo.fig
-> - Imperial_MActivity4_ProgramLogo.pdf
-> - MActivity7_Imperial.fig
-> - MActivity7_Imperial.pdf
-> - ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png
+19 | Imperial_MActivity6.pdf | So many screens. So much busywork. 😵‍💫
+20 | Imperial_MActivity_DragGesture.fig | Trial for drag gesture.
+21 | Imperial_MActivity_DragGesture.pdf | The screens behind the sample app for drag gesture movement.
+22 | Imperial_MActivity4_ProgramLogo.fig | The creation of a logo for our program, BSc in Computer Science.
+23 | Imperial_MActivity4_ProgramLogo.pdf | Looks neat alongside our university’s college department logos, no?
+24 | MActivity7_Imperial.fig | Calendar creation.
+25 | MActivity7_Imperial.pdf | Assets used for the creation of a changing calendar.
+26 | ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png | This is it: the midterm exam. A proposal to improve the user interface of an app for the sake of a target demographic (elderly smartphone users).
 
 ## On socials
 
