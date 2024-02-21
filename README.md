@@ -77,6 +77,19 @@ This repository features binary files from the software design service Figma, as
 25 | MActivity7_Imperial.pdf | Assets used for the creation of a changing calendar.
 26 | ITCS215LA_MEA8_ImproveViber_Darvin,Beronilla,Imperial_Screenshot 2023-10-03 154323.png | This is it: the midterm exam. A proposal to improve the user interface of an app for the sake of a target demographic (elderly smartphone users).
 
+### Final period structure
+
+- final
+> - FActivity1A_Imperial.fig
+> - FActivity1A_Imperial_LinkSummary.docx
+> - FActivity1A_Imperial_LinkSummary.pdf
+> - FActivity2_Imperial.fig
+> - FActivity2_Imperial_Summary.docx
+> - FActivity2_Imperial_Summary.pdf
+> - FActivity3_Imperial_LinkSummary.docx
+> - Imperial - Lab Activity no. 4 Sticky1 - LinkSummary.docx
+> - ITCS215LA_FSA1_FLabExam_Imperial_SubmissionSummary.docx
+
 ## On socials
 
 - X: [@LuisAntonPI](https://twitter.com/LuisAntonPI)
