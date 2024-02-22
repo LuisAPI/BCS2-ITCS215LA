@@ -48,7 +48,7 @@ This repository features binary files from the software design service Figma, as
 
 ### Midterm period structure
  
-# | Type | File | Description
+Num | Type | File | Description
 ----|----|----|----
 1 | PDF | ITCS215LA_M_LA1_ConsiderImprovements_Imperial.pdf | We were asked to think of an app we used often and describe how it could be improved.
 2 | FIG | ITCS215LA_M_LA1 Imperial.fig | Learn Figma step-by-step 1/
