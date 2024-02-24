@@ -79,16 +79,17 @@ Num | Type | File | Description
 
 ### Final period structure
 
-- final
-> - FActivity1A_Imperial.fig
-> - FActivity1A_Imperial_LinkSummary.docx
-> - FActivity1A_Imperial_LinkSummary.pdf
-> - FActivity2_Imperial.fig
-> - FActivity2_Imperial_Summary.docx
-> - FActivity2_Imperial_Summary.pdf
-> - FActivity3_Imperial_LinkSummary.docx
-> - Imperial - Lab Activity no. 4 Sticky1 - LinkSummary.docx
-> - ITCS215LA_FSA1_FLabExam_Imperial_SubmissionSummary.docx
+Num | Type | File | Description
+----|----|----|----
+1 | FIG | FActivity1A_Imperial.fig | First activity, source file
+2 | DOCX | FActivity1A_Imperial_LinkSummary.docx | First activity, editable document file
+3 | PDF | FActivity1A_Imperial_LinkSummary.pdf | First activity, portable document file
+4 | FIG | FActivity2_Imperial.fig | Second activity, source file
+5 | DOCX | FActivity2_Imperial_Summary.docx | Second activity, editable document file
+6 | PDF | FActivity2_Imperial_Summary.pdf | Second activity, portable document file
+7 | DOCX | FActivity3_Imperial_LinkSummary.docx | Third activity, editable document file
+8 | DOCX | Imperial - Lab Activity no. 4 Sticky1 - LinkSummary.docx | Fourth activity, editable document file
+9 | DOCX | ITCS215LA_FSA1_FLabExam_Imperial_SubmissionSummary.docx | Final exam, editable document file
 
 ## On socials
 
